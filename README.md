@@ -10,7 +10,7 @@ This project analyzes the Titanic dataset and visualizes survival statistics usi
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/raaflahar/titanic-survival-rate.git
     ```
 2. Install required Python libraries:
     ```bash
@@ -41,5 +41,8 @@ The Titanic dataset (`titanic.xlsx`) contains the following important columns:
 ### Bar Chart: Survival Rate by Gender
 ![Bar Chart](img/survival-rate-by-gender.png)
 
-### Pie Chart: Survival vs. Non-Survivors
+### Bar Chart: Survival Rate by Passenger Class
+![Bar Chart](img/survival-rate-by-passenger-class.png)
+
+### Pie Chart: Survivors vs. Non-Survivors
 ![Pie Chart](img/survival-rate.png)
