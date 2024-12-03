@@ -34,9 +34,8 @@ The Titanic dataset (`titanic.xlsx`) contains the following important columns:
 - **Embarked**: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 ## Visualizations
-- **Bar Chart**: Survival rate by gender.
+- **Bar Chart**: Survival rate by gender and Survival rate by Passenger Class.
 - **Pie Chart**: Proportion of survivors vs. non-survivors.
-- **Bar Chart**: Number of survivors vs. non-survivors.
 
 ## Example Outputs
 ### Bar Chart: Survival Rate by Gender
